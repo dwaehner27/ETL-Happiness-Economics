@@ -10,3 +10,6 @@ Our two datasources are predicated on the concept of happiness by country and th
 ### Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin4, etc)
 ### Transform: what data cleansing or transformation was brequired
 ### Load: the final database, table/collections and why this was chosen
+
+Screenshot of inital datasets:
+
