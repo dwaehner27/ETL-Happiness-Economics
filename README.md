@@ -63,5 +63,6 @@ Our final dataset includes the column names: country_name,	population,	density,	
 * After that, we connected to our sql session using sqlalchemy and read our datasets into their tables
 * Lastly, we created the final combined dataset which is shown below:
 
+![image](https://user-images.githubusercontent.com/61367502/117545639-3f0ea880-afec-11eb-89ef-49911e691cb2.png)
 
 
