@@ -1,4 +1,4 @@
-# ETL-Happiness-Economics
+# ETL: Happiness Economics
 ## ETL Project
 * See other README file for the steps to generate your own dataset with this information
 
