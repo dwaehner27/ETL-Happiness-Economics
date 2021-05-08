@@ -7,7 +7,7 @@ Data Sources:
 * https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
 
 Proposal:
-Our two datasources are predicated on the concept of happiness by country and the population of the country. Our plan is to join these two datasets by country. We will do this by loading the CSVs into our python script, cleaning and combineing in python utilizing pandas and then loading it into our postgres database.
+Our two datasources are predicated on the concept of happiness by country and the population of the country. Our plan is to join the two datasets from the year 2020, one on happiness scores and the other on population, by country. We will do this by loading the CSVs into our python script, cleaning and combineing in python utilizing pandas and then loading it into our postgres database.
 
 # Dataset Overview
 
@@ -23,6 +23,12 @@ Our two datasources are predicated on the concept of happiness by country and th
 
 ## Combined dataset for database:
 Our final dataset includes the column names: country_name,	population,	density,	land_area,	migrants, region,	score,	gdp_per_capita,	social_support, and	corruption_perception
+
+Please see below for units:
+
+* Density = P/Km²
+* Land Area = Km²
+
 
 # Our Process
 * First, using python, we imported our two files, the happiness dataset and the population dataset.  
