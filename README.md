@@ -46,6 +46,7 @@ Our two datasources are predicated on the concept of happiness by country and th
 
 * Join the two tables on country name and select the all columns from both tables.
 
+# Dataset Overview
 
 ## Population by country dataset: https://www.kaggle.com/eng0mohamed0nabil/population-by-country-2020
 * This dataset includes the column names: Country (or dependency), Population (2020),	Yearly Change,	Net Change,	Density (P/KmÂ²),	Land Area (KmÂ²),	Migrants (net),	Fert. Rate,	Med. Age,	Urban Pop %, and World Share
@@ -54,3 +55,5 @@ Our two datasources are predicated on the concept of happiness by country and th
 
 ## Combined dataset for database:
 Our final dataset includes the column names: country_name,	population,	density,	land_area,	migrants, region,	score,	gdp_per_capita,	social_support, and	corruption_perception
+
+## Example of Final Dataset
