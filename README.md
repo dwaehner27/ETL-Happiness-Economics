@@ -1,6 +1,6 @@
 # ETL: Happiness Economics
 ## ETL Project
-* See other README file for the steps to generate your own dataset with this information
+![image](https://user-images.githubusercontent.com/61367502/117545937-89445980-afed-11eb-81f2-f3ee94963e8b.png)
 
 Data Sources: 
 * https://www.kaggle.com/eng0mohamed0nabil/population-by-country-2020
@@ -13,8 +13,13 @@ Our two datasources are predicated on the concept of happiness by country and th
 
 ## Population by country dataset: https://www.kaggle.com/eng0mohamed0nabil/population-by-country-2020
 * This dataset includes the column names: Country (or dependency), Population (2020),	Yearly Change,	Net Change,	Density (P/Km²),	Land Area (Km²),	Migrants (net),	Fert. Rate,	Med. Age,	Urban Pop %, and World Share
+![image](https://user-images.githubusercontent.com/61367502/117545921-76ca2000-afed-11eb-8efb-dcd58bff559e.png)
+
+
 ## Happiness by country dataset: https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
 * This dataset includes the column names: Country name,	Regional indicator,	Ladder score,	Standard error of ladder score,	upperwhisker,	lowerwhisker,	Logged GDP per capita,	Social support,	Healthy life expectancy,	Freedom to make life choices,	Generosity,	Perceptions of corruption,	Ladder score in Dystopia,	Explained by: Log GDP per capita,	Explained by: Social support,	Explained by: Healthy life expectancy,	Explained by: Freedom to make life choices,	Explained by: Generosity,	Explained by: Perceptions of corruption,	Dystopia + residual,
+![image](https://user-images.githubusercontent.com/61367502/117545928-7df12e00-afed-11eb-88b0-951a735774dc.png)
+
 
 ## Combined dataset for database:
 Our final dataset includes the column names: country_name,	population,	density,	land_area,	migrants, region,	score,	gdp_per_capita,	social_support, and	corruption_perception
