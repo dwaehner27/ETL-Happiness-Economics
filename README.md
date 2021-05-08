@@ -17,7 +17,7 @@ Our two datasources are predicated on the concept of happiness by country and th
 
 
 ## Happiness by country dataset: https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
-* This dataset includes the column names: Country name,	Regional indicator,	Ladder score,	Standard error of ladder score,	upperwhisker,	lowerwhisker,	Logged GDP per capita,	Social support,	Healthy life expectancy,	Freedom to make life choices,	Generosity,	Perceptions of corruption,	Ladder score in Dystopia,	Explained by: Log GDP per capita,	Explained by: Social support,	Explained by: Healthy life expectancy,	Explained by: Freedom to make life choices,	Explained by: Generosity,	Explained by: Perceptions of corruption,	Dystopia + residual,
+* This dataset includes the column names: Country name,	Regional indicator,	Ladder score,	Standard error of ladder score,	upperwhisker,	lowerwhisker,	Logged GDP per capita,	Social support,	Healthy life expectancy,	Freedom to make life choices,	Generosity,	Perceptions of corruption,	Ladder score in Dystopia,	Explained by: Log GDP per capita,	Explained by: Social support,	Explained by: Healthy life expectancy,	Explained by: Freedom to make life choices,	Explained by: Generosity,	Explained by: Perceptions of corruption, and	Dystopia + residual
 ![image](https://user-images.githubusercontent.com/61367502/117545928-7df12e00-afed-11eb-88b0-951a735774dc.png)
 
 
