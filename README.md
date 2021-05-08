@@ -56,4 +56,12 @@ Our two datasources are predicated on the concept of happiness by country and th
 ## Combined dataset for database:
 Our final dataset includes the column names: country_name,	population,	density,	land_area,	migrants, region,	score,	gdp_per_capita,	social_support, and	corruption_perception
 
-## Example of Final Dataset
+# Our Process
+* First, using python, we imported our two files, the happiness dataset and the population dataset.  
+* Then we trimmed down each dataset so that the final, combined dataset would be more focused.  We wanted to focus. more in economic indicators so the happiness dataset was cut to include country name, country region, happiness score, GDP per capita, social support score, and corruption percentage.  The population dataset was cut to include country, population, population density, land area, and migrants.
+* Next, we defined our tables in sql and also defined the joined table.
+* After that, we connected to our sql session using sqlalchemy and read our datasets into their tables
+* Lastly, we created the final combined dataset which is shown below:
+
+
+
