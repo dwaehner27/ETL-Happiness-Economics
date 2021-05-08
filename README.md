@@ -7,7 +7,7 @@ Data Sources:
 * https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
 
 Proposal:
-Our two datasources are predicated on the concept of happiness by country and the population of the country. Our plan is to join these two datasets by country. We will do this by loading the CSVs into our python script, clean and combine in python utilizing pandas and then load it into our postgres database.
+Our two datasources are predicated on the concept of happiness by country and the population of the country. Our plan is to join these two datasets by country. We will do this by loading the CSVs into our python script, cleaning and combineing in python utilizing pandas and then loading it into our postgres database.
 
 # Dataset Overview
 
