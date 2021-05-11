@@ -54,7 +54,7 @@ Please see below for units:
 
 2. In Jupyter Notebook, import the dependencies and extract data from the CSV files into a pandas DataFrame.
 
-## Transform: what data cleansing or transformation was brequired
+## Transform: what data cleansing or transformation was required
 
 1. Copy the necessary columns into a new DataFrame.
 
